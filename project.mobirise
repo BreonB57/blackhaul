@@ -55,7 +55,7 @@
       "total": "Total Topup Amount",
       "ACCOUNT_KEY": "acct_1GXqIxA7PpspOHVm_RMQbRsiKaJCbY5F0R6eNcJq29HWZ8nvsUcbutmP3nrD"
     },
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
